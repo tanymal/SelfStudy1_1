@@ -1,0 +1,14 @@
+C:\AAAAAA\Навчання\Курс2Семестр2\Комп'ютерні мережі\self_study_1_ds\self_study_1_ds\bin\Debug\self_study_1_ds.exe.config
+C:\AAAAAA\Навчання\Курс2Семестр2\Комп'ютерні мережі\self_study_1_ds\self_study_1_ds\bin\Debug\self_study_1_ds.exe
+C:\AAAAAA\Навчання\Курс2Семестр2\Комп'ютерні мережі\self_study_1_ds\self_study_1_ds\bin\Debug\self_study_1_ds.pdb
+C:\AAAAAA\Навчання\Курс2Семестр2\Комп'ютерні мережі\self_study_1_ds\self_study_1_ds\obj\Debug\self_study_1_ds.csproj.AssemblyReference.cache
+C:\AAAAAA\Навчання\Курс2Семестр2\Комп'ютерні мережі\self_study_1_ds\self_study_1_ds\obj\Debug\self_study_1_ds.csproj.CoreCompileInputs.cache
+C:\AAAAAA\Навчання\Курс2Семестр2\Комп'ютерні мережі\self_study_1_ds\self_study_1_ds\obj\Debug\self_study_1_ds.exe
+C:\AAAAAA\Навчання\Курс2Семестр2\Комп'ютерні мережі\self_study_1_ds\self_study_1_ds\obj\Debug\self_study_1_ds.pdb
+C:\AAAAAA\Навчання\Курс2Семестр2\Дискретні структури\self_study_1_ds\self_study_1_ds\bin\Debug\self_study_1_ds.exe.config
+C:\AAAAAA\Навчання\Курс2Семестр2\Дискретні структури\self_study_1_ds\self_study_1_ds\bin\Debug\self_study_1_ds.exe
+C:\AAAAAA\Навчання\Курс2Семестр2\Дискретні структури\self_study_1_ds\self_study_1_ds\bin\Debug\self_study_1_ds.pdb
+C:\AAAAAA\Навчання\Курс2Семестр2\Дискретні структури\self_study_1_ds\self_study_1_ds\obj\Debug\self_study_1_ds.csproj.AssemblyReference.cache
+C:\AAAAAA\Навчання\Курс2Семестр2\Дискретні структури\self_study_1_ds\self_study_1_ds\obj\Debug\self_study_1_ds.csproj.CoreCompileInputs.cache
+C:\AAAAAA\Навчання\Курс2Семестр2\Дискретні структури\self_study_1_ds\self_study_1_ds\obj\Debug\self_study_1_ds.exe
+C:\AAAAAA\Навчання\Курс2Семестр2\Дискретні структури\self_study_1_ds\self_study_1_ds\obj\Debug\self_study_1_ds.pdb
